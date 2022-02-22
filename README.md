@@ -20,11 +20,11 @@
 
  CLONE THIS REPO INTO YOUR PC OR LAP
  
- EXTRACT RESOURCES.7z USING 7zip
+ EXTRACT resource.7z USING 7zip
  
  LINK FOR 7zip - https://www.7-zip.org
  
- RUN main.py TO START 
+ RUN battle_city_remastered.py TO START 
  
  KEEP PLAYING ENJOY
  
